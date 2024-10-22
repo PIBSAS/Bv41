@@ -1,9 +1,9 @@
-<h1 align="center"> Batocera V40 Bios 2024</h1>
+<h1 align="center"> Batocera V41 Bios 2024</h1>
 <p align="center">
 Las Bios Correctas y necesarias para Batocera V40, sin archivos innecesarios.
 </p>
 <p align="center">
-The right Bios for Batocera V40 without unnecessary files.
+The right Bios for Batocera V41 without unnecessary files.
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/PIBSAS/RetroPieBios/master/logov3.png" alt="Luciano's tech" width="400" height="500">
