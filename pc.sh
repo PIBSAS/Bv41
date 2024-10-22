@@ -1,6 +1,6 @@
 #!/bin/bash
 ###########################################################################
-# Repositorio: BatoceraV40Bios 2024
+# Repositorio: Bv41 2024
 # Por: Luciano's tech ("https://sites.google.com/view/lucianostech/)
 # License: http://creativecommons.org/licenses/by-sa/4.0/
 ###########################################################################
@@ -14,7 +14,7 @@ echo
 echo "Limpiando las bios basura que te descargaste de otro lado o las mismas si se te corto internet"
 echo "Cleaning the garbage bios downloaded from other sites or from this site but if you internet shutdown in the process"
 echo
-RUTA=https://raw.githubusercontent.com/PIBSAS/BatoceraV40Bios/main/bios/
+RUTA=https://raw.githubusercontent.com/PIBSAS/Bv41/main/bios/
 RUTA_ARCH="https://archive.org/download/bios_batocera/BatoceraV39Bios/bios/"
 RUTA_B="https://archive.org/download/bios_batocera/"
 echo
