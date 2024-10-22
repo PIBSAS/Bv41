@@ -18,7 +18,7 @@ The right Bios for Batocera V40 without unnecessary files.
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/BatoceraV40Bios/main/pi.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/Bv41/main/pi.sh | bash
 ```
 
 ### Or Login through SSH -- O Nos conectamos por SSH:
@@ -32,7 +32,7 @@ Password: `linux`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/BatoceraV40Bios/main/pi.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/Bv41/main/pi.sh | bash
 ```
 
 <h2 align="center"> PC Bios Batocera V40 Butterfly</h2>
@@ -50,7 +50,7 @@ Password: `linux`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/BatoceraV40Bios/main/pc.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/Bv41/main/pc.sh | bash
 ```
 ### Enjoy!!! --- A disfrutar!!!
 
@@ -60,7 +60,7 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/BatoceraV40Bios/main/pc.sh | 
 https://sites.google.com/view/lucianostech/retro-consolas
 
 # Tutorial: Crea tu propio Joystick Arcade con Pro-Micro mejor que Zero Delay
-https://sites.google.com/view/raspberrypibuenosaires/joystick-arcade
+https://sites.google.com/view/lucianostech/joystick-arcade
 
 <br>
 <h1 align="center"> Invite a Coffee</h1>
