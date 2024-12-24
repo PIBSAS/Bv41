@@ -343,6 +343,7 @@ rm ../bios/openmsx/fs-a1gt_kanjifont.rom
 rm ../bios/openmsx/ide250.zip
 rm ../bios/supracan.zip
 rm ../bios/vis.zip
+rm ../bios/64DD_IPL.bin
 rm ../bios/GC/EUR/IPL.bin
 rm ../bios/GC/JAP/IPL.bin
 rm ../bios/GC/USA/IPL.bin
@@ -964,6 +965,10 @@ echo
 echo "###### TANDY VIS: Video Information System MD-2500 ######"
 echo
 wget -c "${RUTA}vis.zip" -P ../bios/
+echo
+echo "###### NINTENDO GAMECUBE 64DD ######"
+echo
+wget -c "${RUTA}64DD_IPL.bin" -P ../bios/
 echo
 echo "###### NINTENDO GAMECUBE ######"
 echo
