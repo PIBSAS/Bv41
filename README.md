@@ -18,7 +18,7 @@ The right Bios for Batocera V41 without unnecessary files.
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/Bv41/main/pi.sh | bash
+curl https://raw.githubusercontent.com/PIBSAS/Bv41/main/pi.sh | bash
 ```
 
 ### Or Login through SSH -- O Nos conectamos por SSH:
@@ -32,7 +32,7 @@ Password: `linux`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/Bv41/main/pi.sh | bash
+curl https://raw.githubusercontent.com/PIBSAS/Bv41/main/pi.sh | bash
 ```
 
 <h2 align="center"> PC Bios Batocera V40 Butterfly</h2>
@@ -50,7 +50,7 @@ Password: `linux`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/Bv41/main/pc.sh | bash
+curl https://raw.githubusercontent.com/PIBSAS/Bv41/main/pc.sh | bash
 ```
 ### Enjoy!!! --- A disfrutar!!!
 
